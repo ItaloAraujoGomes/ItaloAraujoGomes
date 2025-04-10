@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full Stack Developer<br>- Study for 9 months<br>- Currently I have been studying Node.js</p>
+<p align="left">- Full Stack Developer<br>- Study for 11 months<br>- Currently I have been studying Python</p>
 
 ###
 
