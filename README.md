@@ -35,18 +35,6 @@ I'm a <b>Full Stack Developer</b> specialized in building robust, scalable, and 
   <img src="https://skillicons.dev/icons?i=docker,githubactions,figma" height="40" alt="devops and tools" />
 </div>
 
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ItaloAraujoGomes&show_icons=true&include_all_commits=true&count_private=true&theme=merko&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=ItaloAraujoGomes&locale=en&layout=compact&card_width=320&langs_count=5&theme=merko" height="150" alt="languages graph"  />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloAraujoGomes&theme=merko&area=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
