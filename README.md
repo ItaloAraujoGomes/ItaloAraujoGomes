@@ -1,27 +1,38 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Hey there! I'm Italo Araujo Gomes 👋</h2>
 
 ###
 
-<p align="left">- Full Stack Developer<br>- Study for 11 months<br>- Currently I have been studying Python</p>
+<p align="left">
+I'm a <b>Full Stack Developer</b> specialized in building robust, scalable, and high-performance web applications for the financial sector (FIDC). I focus on modern architectures using the JavaScript/TypeScript ecosystem, seamlessly integrating performant front-ends with complex back-ends and automated data pipelines.
+</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">⚡ Professional Highlights (Capital Finanças)</h2>
+
+- 🏢 **Core Internal Tools:** Led the development of **Capital Hub**, a real-time monitoring dashboard built with **React 19** and **Vite**, centralizing data from the Facwin ERP.
+- ⚙️ **Architecture & Data:** Implemented automated synchronization via **Edge Functions** and **pg_cron**, alongside multi-database modeling in **Supabase** using Materialized Views and RPCs.
+- 🔒 **Security:** Developed a granular Role-Based Access Control (**RBAC**) system with 5 access tiers.
+- 📊 **Data Engineering:** Engineered **ETL pipelines** processing over **900k+ records** bridging ERP, Supabase, and external APIs (Pipefy, Goalfy).
+- 🤖 **AI Innovation:** Built **MCP (Model Context Protocol) servers** to integrate intelligent agents directly into operational workflows.
+
+🎓 *Currently pursuing a degree in Analysis and Systems Development, focusing on software architecture and engineering best practices.*
+
+###
+
+<h2 align="left">Techs & Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" height="40" alt="frontend techs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <!-- Backend & DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,py,c,postgres,supabase" height="40" alt="backend and database techs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <!-- DevOps & Design -->
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,figma" height="40" alt="devops and tools" />
 </div>
 
 ###
@@ -33,21 +44,20 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ItaloAraujoGomes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloAraujoGomes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloAraujoGomes&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.github.io/graph?username=ItaloAraujoGomes&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-
-<h2 align="left">Social Media</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/italoaraujogomesdeveloper" target="_blank">
+  <a href="https://www.linkedin.com/in/italoaraujogomesdeveloper" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="italoaraujogomes@gmail.com" target="_blank">
+  <a href="mailto:italoaraujogomes@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/italoaraujogomes/" target="_blank">
